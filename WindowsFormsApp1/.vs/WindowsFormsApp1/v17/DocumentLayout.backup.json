@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|d:\\programming 2024\\c#\\contacts project - windows form app\\windowsformsapp1\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A1FB76-FAC1-428F-B7C6-05A7AE46536C}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddForm.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\AddForm.cs",
+              "RelativeDocumentMoniker": "AddForm.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\AddForm.cs",
+              "RelativeToolTip": "AddForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:04:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:35:33.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\AddForm.cs",
+              "RelativeDocumentMoniker": "AddForm.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\AddForm.cs [Design]",
+              "RelativeToolTip": "AddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:00:54.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\Contacts Project - Windows Form App\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:47:45.681Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

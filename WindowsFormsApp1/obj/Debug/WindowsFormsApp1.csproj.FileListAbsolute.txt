@@ -1,0 +1,17 @@
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\ContactsDataAccessLayer.dll
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\ContactsDataAccessLayer.pdb
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddForm.resources
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\ContactBusinessLayer.dll
+D:\Programming 2024\C#\Contacts Project - Windows Form App\WindowsFormsApp1\bin\Debug\ContactBusinessLayer.pdb
